@@ -89,8 +89,8 @@ I am currently in my **final year of B.Tech in Data Science & Artificial Intelli
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 <p align="center">
