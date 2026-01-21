@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=42&pause=1000&color=19F805F7&center=true&vCenter=true&width=1000&letterSpacing=2&lines=Hey+there!+I'm+Mohammad+Danish+Ansari"
     alt="welcome message"
@@ -6,19 +6,35 @@
   <br/>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 </div>
+ -->
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=42&pause=1000&color=19F805F7&center=true&vCenter=true&width=1000&letterSpacing=2&lines=Hey+there!+I'm+Mohammad+Danish+Ansari;Data+Science+%26+AI+Enthusiast;DevOps+%7C+ML+%7C+Cybersecurity"
+    alt="welcome message" />
+  <br/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+  
+  <!-- <img src="https://komarev.com/ghpvc/?username=danishansari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
+</div>
+
+
 I am currently in my final year of B.Tech in Data Science & Artificial Intelligence at the Indian Institute of Information Technology, Dharwad. With strong enthusiasm and steady commitment, I work hard to keep improving my knowledge and skills, becoming a better version of myself over time.<br><br>🌱 Currently I’m learning Machine Learning<br>👯 I’m looking to collaborate on ML projects.<br>📫 How to reach me: Drop a message on my LinkedIn.
 
-### 🌐 Socials
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-
+## 🌐 Socials
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange)](https://leetcode.com/u/danishansari-dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishansari-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danishansari.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/whoisdaanish/)
 
 
-## 💻 Tech Stack
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+<!-- ## 💻 Tech Stack -->
+
+
+<br>
+<!-- <h2> 🔥 Tech Stack:</h2>  -->
+<p align="left-center">
+<img width="15%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG01dWxsaGE0d2M5czF4NjVxNjJycWhkbm13OWowYjkxMnR6OXJjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qNHyaJzOmLNwGWk7Zf/giphy.gif">
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -64,7 +80,6 @@ I am currently in my final year of B.Tech in Data Science & Artificial Intellige
 <!-- <h2> 🔥 Github Stats:</h2>  -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" /> 
 <div>
   <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical" />
   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical" />
@@ -74,8 +89,7 @@ I am currently in my final year of B.Tech in Data Science & Artificial Intellige
   
 </div>
 
-### ✍️ Random Dev Quote
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
