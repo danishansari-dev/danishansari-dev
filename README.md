@@ -77,17 +77,21 @@ I am currently in my **final year of B.Tech in Data Science & Artificial Intelli
 
 
 <br>
-<!-- <h2> 🔥 Github Stats:</h2>  -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-<div>
-  <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical" />
-  <img src="![](https://nirzak-streak-stats.vercel.app/?user=danishansari-dev&theme=dark&hide_border=false" />
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical" />
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=danishansari-dev&theme=radical&hide_border=false)
+<!-- ## 📊 GitHub Statistics -->
 
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/YCw47Dm.gif" alt="Fire Animation">
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  <img width="51%" src="https://github-readme-streak-stats-eight.vercel.app?user=danishansari-dev&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishansari-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
@@ -98,13 +102,12 @@ I am currently in my **final year of B.Tech in Data Science & Artificial Intelli
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p> -->
 
-## 🏆 LeetCode Stats
+<!-- ## 🏆 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </p>
-
-<!-- --- -->
+--- -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
