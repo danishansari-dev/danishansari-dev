@@ -101,7 +101,7 @@ I am currently in my **final year of B.Tech in Data Science & Artificial Intelli
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/danishansari-dev?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 <!-- --- -->
