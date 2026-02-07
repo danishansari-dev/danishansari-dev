@@ -19,18 +19,15 @@ I am currently in my **final year of B.Tech in Data Science & Artificial Intelli
 <!-- - ⚡ Fun fact: **I build e-commerce platforms and love creating content!** -->
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/danishansari-dev">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/danishansari-dev/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange" alt="LeetCode"/>
-  </a>
-  <a href="mailto:danishansari.dev@gmail.com">
+    <a href="mailto:danishansari.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/whoisdaanish">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://leetcode.com/u/danishansari-dev/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange" alt="LeetCode"/>
   </a>
 </p>
 
