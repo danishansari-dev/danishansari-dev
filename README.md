@@ -131,20 +131,26 @@ Final year **B.Tech in Data Science & AI** student at **IIIT Dharwad**, with han
 
 ---
 
-
 <p align="center">
   <img src="https://i.imgur.com/YCw47Dm.gif" alt="Fire Animation">
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  <img width="51%" src="https://github-readme-streak-stats-eight.vercel.app?user=danishansari-dev&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=137506936">
+    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=137506936&image_size=auto&color_scheme=dark" alt="OSS Insight Dashboard"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
-  <img src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=danishansari-dev&theme=radical" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical&langs_count=8" />
+  <img width="49%" src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishansari-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
