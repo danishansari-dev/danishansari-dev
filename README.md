@@ -116,21 +116,6 @@ Final year **B.Tech in Data Science & AI** student at **IIIT Dharwad**, with han
 
 ---
 
-## 🏆 Leadership & Activities
-
-**🎨 Creative Team Lead — OSCode Club, IIIT Dharwad** *(2024 – 2025)*
-- Led planning and execution of multiple technical events impacting **500+ students**
-- Managed social media campaigns and publicity to drive student engagement
-
----
-
-## 📜 Certifications
-
-- 🐍 Python 101 for Data Science — **IBM / Cognitive Class** *(Jul 2025)*
-- ☕ Java (Basic) — **HackerRank** *(Jul 2025)*
-
----
-
 <p align="center">
   <img src="https://i.imgur.com/YCw47Dm.gif" alt="Fire Animation">
 </p>
