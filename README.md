@@ -7,19 +7,6 @@
 </div>
 
 
-## 👨‍💻 About Me
-
-Final year **B.Tech in Data Science & AI** student at **IIIT Dharwad**, with hands-on experience building CNN-based medical imaging models, end-to-end ML pipelines, and a production e-commerce platform with real CI/CD workflows. I bridge the gap between ML and engineering — not just training models, but deploying and maintaining them.
-
-- 🔭 Currently building **MLOps pipelines & Deep Learning models**
-- 🛒 Co-founded **[Scrunch & Create](https://scrunchcreate.com)** — a live e-commerce platform with automated CI/CD
-- 💬 Ask me about **Python, PyTorch, Docker, Jenkins, GitHub Actions**
-- 🌱 Exploring **LLMs, model deployment, and cloud-native ML**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/danishansari-dev) or at danishansari.dev@gmail.com
-
----
-
-## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/danishansari-dev">
@@ -36,46 +23,32 @@ Final year **B.Tech in Data Science & AI** student at **IIIT Dharwad**, with han
   </a>
 </p>
 
----
+<!-- <p align="center">
+  <img src="https://i.imgur.com/YCw47Dm.gif" alt="Fire Animation">
+</p> -->
 
-## 🚀 Featured Projects
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=137506936">
+    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=137506936&image_size=auto&color_scheme=dark" alt="OSS Insight Dashboard"/>
+  </a>
+</p>
 
-### 🦴 [Bone Fracture Binary Classification](https://github.com/danishansari-dev/Bone-Fracture-Binary-Classification)
-> CNN-based X-ray fracture detection with **90%+ classification accuracy**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=danishansari-dev&theme=radical" />
+</p>
 
-- Applied data augmentation and hyperparameter tuning for better generalization
-- Performed detailed error analysis using confusion matrices and loss curves
-- **Tech:** PyTorch · OpenCV · NumPy · Matplotlib
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical&langs_count=8" />
+  <img width="49%" src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" />
+</p>
 
----
 
-### 🔢 [Handwritten Digit Recognition](https://github.com/danishansari-dev/Pytorch-Handwritten-Digit-Recognition)
-> MNIST digit classifier using a modular CNN pipeline in PyTorch
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishansari-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
 
-- Implemented reproducible training/validation pipelines
-- Conducted hyperparameter tuning and misclassified sample analysis
-- **Tech:** PyTorch · NumPy · Matplotlib
 
----
-
-### 🏥 [Disease Prediction System](https://github.com/danishansari-dev/Disease-Prediction-Based-On-Symptoms)
-> End-to-end ML pipeline for symptom-based disease prediction with **85% accuracy**
-
-- Feature engineering on structured medical dataset with model comparison
-- Systematic preprocessing, evaluation, and performance benchmarking
-- **Tech:** scikit-learn · Pandas · NumPy · Seaborn
-
----
-
-### 🛒 [Scrunch & Create – E-Commerce Platform](https://github.com/danishansari-dev/scrunchcreate) · [Live ↗](https://scrunchcreate.com)
-> Co-founded and engineered a production e-commerce platform from scratch
-
-- Built frontend with **React + Vite** for performance and responsive UX
-- Designed file-system–driven product catalog to scale without a traditional backend
-- Implemented **CI/CD with GitHub Actions** for automated build and deployment
-- **Tech:** React · Vite · TypeScript · GitHub Actions · HTML/CSS
-
----
 
 ## 💻 Tech Stack
 
@@ -114,34 +87,6 @@ Final year **B.Tech in Data Science & AI** student at **IIIT Dharwad**, with han
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/YCw47Dm.gif" alt="Fire Animation">
-</p>
-
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=137506936">
-    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=137506936&image_size=auto&color_scheme=dark" alt="OSS Insight Dashboard"/>
-  </a>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=danishansari-dev&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical&langs_count=8" />
-  <img width="49%" src="https://leetcard.jacoblin.cool/danishansari-dev?theme=radical&font=Karma&ext=heatmap" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishansari-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
