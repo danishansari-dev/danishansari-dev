@@ -16,9 +16,7 @@
   <a href="https://leetcode.com/u/danishansari-dev/">
     <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange" alt="LeetCode"/>
   </a>
-  <a href="https://scrunchcreate.com">
-    <img src="https://img.shields.io/badge/Live%20Project-scrunchcreate.com-brightgreen?style=flat&logo=vercel" alt="Scrunch & Create"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=danishansari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danishansari-dev" /> 
 </p>
 
 <!-- <p align="center">
@@ -43,9 +41,9 @@
 
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danishansari-dev&theme=radical&no-frame=true&row=1&column=6" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishansari-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
-
 
 
 ## 💻 Tech Stack
