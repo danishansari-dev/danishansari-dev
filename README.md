@@ -20,6 +20,8 @@
   <img src="https://komarev.com/ghpvc/?username=danishansari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="danishansari-dev" /> 
 </p>
 
+Danish_7300969491.pdf
+## 📄 [Resume](./Danish_7300969491.pdf)
 <!-- <p align="center">
   <img src="https://i.imgur.com/YCw47Dm.gif" alt="Fire Animation">
 </p> -->
